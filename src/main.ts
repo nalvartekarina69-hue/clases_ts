@@ -1,8 +1,7 @@
 import './style.css'
 import viteLogo from '/vite.svg'
-// import './aprendiendo/1ts'
-// import './aprendiendo/2ts'
-import './aprendiendo/4ts.ts'
+
+import './aprendiendo/12ts.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <a href="https://vite.dev" target="_blank">

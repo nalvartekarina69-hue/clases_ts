@@ -48,4 +48,4 @@ const estudiante25:Estudiante={
 funcion1(estudiante25,4)
 
 estudiante25.function()
-estudiante25.nombre
+

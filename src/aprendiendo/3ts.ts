@@ -24,7 +24,7 @@ let array3= ["lina",14];
 
 type valores = "alto"|"bajo"|"medio";
 
-enum valores1{
+enum valor{
     Alto,
     Medio,
     Bajo
